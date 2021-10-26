@@ -9,4 +9,7 @@ To get access to data you need to first have a credentialed physionet account ht
 
 ## n2c2 NLP Research Data Sets
 Unstructured notes from the Research Patient Data Registry at Partners Healthcare (originally developed during the i2b2 project)
-![n2c2](n2c2.png)
+<kbd>
+  <img src="n2c2.png">
+</kbd>
+
