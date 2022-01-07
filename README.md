@@ -14,7 +14,7 @@ Unstructured notes from the Research Patient Data Registry at Partners Healthcar
 </kbd>
 
 ## NCBI Data set
-The majority of NCBI data are available for downloading, either directly from the NCBI FTP site or by using software tools to download custom datasets.
-https://www.ncbi.nlm.nih.gov/home/download/
-https://ftp.ncbi.nlm.nih.gov/
-Pub Med Central Database - https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/
+The majority of NCBI data are available for downloading, either directly from the NCBI FTP site or by using software tools to download custom datasets.    
+https://www.ncbi.nlm.nih.gov/home/download/    
+https://ftp.ncbi.nlm.nih.gov/    
+Pub Med Central Database - https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/    
