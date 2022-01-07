@@ -1,4 +1,4 @@
-# medical-data-sets
+# Medical Data Sets
 A curated list of medical data sets that can be used for research
 
 
@@ -9,9 +9,8 @@ To get access to data you need to first have a credentialed physionet account ht
 
 ## n2c2 NLP Research Data Sets
 Unstructured notes from the Research Patient Data Registry at Partners Healthcare (originally developed during the i2b2 project)
-<kbd>
-  <img src="n2c2.png">
-</kbd>
+![N2C2](n2c2.png)
+
 
 ## NCBI Data set
 The majority of NCBI data are available for downloading, either directly from the NCBI FTP site or by using software tools to download custom datasets.    
